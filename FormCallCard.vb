@@ -72,10 +72,6 @@ Public Class FormCallCard
     ' =====================================================
     ' Configuration
     ' =====================================================
-    Private Const WEB_URL As String = "https://tito.ndasphilsinc.com/callingcard/"
-    Private Const API_URL As String = "https://tito.ndasphilsinc.com/callingcard/api/"
-    Private Const ENCRYPTION_KEY As String = "0123456789abcdef0123456789abcdef" ' 32 bytes
-    Private Const ENCRYPTION_IV As String = "abcdef9876543210" ' 16 bytes
 
     ' =====================================================
     ' Form Controls (Add these to your form designer)
